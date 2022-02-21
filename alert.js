@@ -1,1 +1,1 @@
-alert('js');
+alert('XSS');
